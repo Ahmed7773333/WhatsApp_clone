@@ -39,7 +39,6 @@ dependencies:
   animations: ^2.0.8
   bloc: ^8.1.2
   camera: ^0.10.5+5
-  torch_light: ^1.0.0
 
 dev_dependencies:
   flutter_test:
