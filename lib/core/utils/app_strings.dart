@@ -1,0 +1,39 @@
+class AppStrings {
+  static const String title = 'WhatsApp';
+  static const String chats = 'CHATS';
+  static const String status = 'STATUS';
+  static const String calls = 'CALLS';
+  static const String nameSample = 'Ahmed';
+  static const String recent = 'Recent updates';
+  static const String ago = '30 minutes ago';
+  static const String yesterday = 'Yesterday, 10:55 am';
+  static const String myStatus = 'My status';
+  static const String viewUpdate = 'Viewed updates';
+  static const String typeStatus = 'Type a status';
+  static const String statusCustom = 'Status (Custom)';
+  static const String secureMessage =
+      'Messages and calls are end-to-end encrypted. No\none outside of this chat, not even WhatsApp, can read or\nlisten to them. Tap to learn more.';
+  static const String typeMessage = 'Type a message';
+  static const String selectContact = 'Select Contact';
+  static const String contacts626 = '626 contacts';
+  static const String newGroup = 'New group';
+  static const String newContact = 'New contact';
+  static const String heyThere = 'Hey there! I am using W...';
+  static const String end2end = 'End-to-end encrypted';
+  static const String mute = 'Mute notifications for...';
+  static const String calling = 'Calling';
+  static const String hour = '8 hours';
+  static const String week = '1 week';
+  static const String always = 'Always';
+  static const String showNotification = 'Show notifications';
+  static const String ok = 'OK';
+  static const String cancel = 'CANCEL';
+  static const String today = 'Today';
+  static const String search = 'Search...';
+  static const String invite = 'Invite a friend';
+  static const String contacts = 'Contacts';
+  static const String help = 'Help';
+  static const String refresh = 'Refresh';
+  static const String addCaptoin = 'Add a caption...';
+  static const String noRoute = 'Not Found!!';
+}
